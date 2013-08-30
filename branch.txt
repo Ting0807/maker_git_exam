@@ -1,1 +1,6 @@
 explian branch
+1. branch is  a visual folder in repo.
+2. by default, we are in master, 
+3. but we could create branches, to work on new features or experiments.
+4. git will store the changes you made in those branches.
+5. by doing that, master branch could not be messed up. 
