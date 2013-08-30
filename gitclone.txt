@@ -1,1 +1,6 @@
 explain gitclone
+1.make a directory
+2. cd the this directory
+3.git init
+4. git remote add
+5. git pull
