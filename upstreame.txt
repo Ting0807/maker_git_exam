@@ -1,1 +1,2 @@
 explain upstream
+it is for get the latest updates from the author's github, so that you could do changes without disturbing author's code.
